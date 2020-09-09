@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/timer-app/static/css/main.e6913902.chunk.css",
+    "main.js": "/timer-app/static/js/main.c55fb4b8.chunk.js",
+    "main.js.map": "/timer-app/static/js/main.c55fb4b8.chunk.js.map",
+    "runtime-main.js": "/timer-app/static/js/runtime-main.cba6f6d6.js",
+    "runtime-main.js.map": "/timer-app/static/js/runtime-main.cba6f6d6.js.map",
+    "static/js/2.284cf4e6.chunk.js": "/timer-app/static/js/2.284cf4e6.chunk.js",
+    "static/js/2.284cf4e6.chunk.js.map": "/timer-app/static/js/2.284cf4e6.chunk.js.map",
+    "index.html": "/timer-app/index.html",
+    "precache-manifest.34810ce0ec4c373850af87afccbfbb2a.js": "/timer-app/precache-manifest.34810ce0ec4c373850af87afccbfbb2a.js",
+    "service-worker.js": "/timer-app/service-worker.js",
+    "static/css/main.e6913902.chunk.css.map": "/timer-app/static/css/main.e6913902.chunk.css.map",
+    "static/js/2.284cf4e6.chunk.js.LICENSE.txt": "/timer-app/static/js/2.284cf4e6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cba6f6d6.js",
+    "static/js/2.284cf4e6.chunk.js",
+    "static/css/main.e6913902.chunk.css",
+    "static/js/main.c55fb4b8.chunk.js"
+  ]
+}
